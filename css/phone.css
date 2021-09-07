@@ -1,0 +1,21 @@
+@media (orientation:portrait){
+	main {
+    	width: 90%;
+    	height: 45%;
+    }
+.text-span {
+    	width: 65%;
+    }
+
+}
+
+@media screen and (max-height: 375px) {
+    main {
+        width: 55%;
+        height: 100%;
+    }
+.text-span {
+        width: 35%;
+    }
+
+}
